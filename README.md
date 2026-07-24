@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi, I'm Yash. Computer science got me in the door, but cybersecurity made me stay.
+Hi, I am Yash Dahiwlikar, a computer science student who stayed for cybersecurity. I got into CTFs and HackTheBox early on because breaking something teaches you more than reading about it. If you can break it, you actually understand it.
 
-I started on the offensive side. CTFs and HackTheBox pulled me in because breaking something is the fastest way to understand how it works. But you only get half the picture from the attack side. In labs, I analyse packet captures, harden Linux systems, audit access controls, and write Bash scripts to parse logs. That is where the understanding actually comes from.
+I started looking at the defensive side. A SIEM rule catches one thing and misses another. A flaw passes code review but shows up in a pentest report. I wanted to understand why. I am focusing on purple teaming. I chose the CJCA certification because it fits that exact space. I am working through it now.
 
-That shift pushed me towards the overlap between offense and defense. I wanted to know why a detection rule catches one misconfiguration and misses another. The CJCA sits right in that space, which is why I am pursuing it now. Long-term, I am building towards Governance, Risk, and Compliance. Understanding how a system breaks is one skill. Deciding what the controls should have been is a different one.
+Long term I am interested in GRC. Knowing how systems break is one skill. Deciding what the rules should have been from the start is a different one. That second part is where I want to end up.
 
 
 ## 🌐 Socials:
